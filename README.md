@@ -3,7 +3,7 @@ KITO's Impressive Title source
 This is a copy of http://www.kitopen.com/t532-download-and-instructions-compile-your-own-it
 
 
-Instructions by jespersh
+Instructions and major source edits by jespersh (*see changelog)
 ---------------------
 
 ### Requirement
